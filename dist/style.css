@@ -9511,12 +9511,42 @@ h3 {
     border-color: #dee2e6;
   }
 }
+body {
+  font-family: "Mitr" sans-serif !important;
+}
+
 .homna {
   color: red;
 }
 
 .border-bottom {
   border-bottom: 5px solid #1cc5d2 !important;
+}
+
+.pwelcom {
+  color: #b9bbbd !important;
+}
+
+.r_wel {
+  padding-top: 80px;
+  padding-bottom: 120px;
+}
+
+.contcol {
+  margin-top: 80px;
+}
+
+.hcol6 {
+  font-size: 25px;
+}
+
+.pcol6 {
+  padding-top: 20px;
+  color: #b9bbbd !important;
+}
+
+.pcol6-2 {
+  padding-top: 20px;
 }
 
 /*# sourceMappingURL=style.css.map */
